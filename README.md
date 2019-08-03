@@ -51,6 +51,7 @@ you just use command:
     npm install *
 
 OR YOU can manually install each module in the list of dependencies in package.json:
+
     npm install bootstrap
     npm install browser-sync
     npm install gulp           /*gulp-4.0.2*/
