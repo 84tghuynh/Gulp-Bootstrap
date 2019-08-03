@@ -30,22 +30,17 @@ B. STEPS AND EXPLANATION
       ++js
         --main.js
         --other.js
-
       ++scss
 
         ++partials
-
           --_global.scss
           --_index.scss
-
         ++utils
           --_index.scss
           --_variables.scss
-
         ++vendor
 
           ++bootstrap
-
           --_index.scss
 
         --main.scss
