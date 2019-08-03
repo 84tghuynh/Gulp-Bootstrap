@@ -26,6 +26,7 @@ B. STEPS AND EXPLANATION
   ++js
 
   ++src
+  
       ++js
         --main.js
         --other.js
@@ -40,7 +41,6 @@ B. STEPS AND EXPLANATION
           ++bootstrap
           --_index.scss
         --main.scss
-        
   --gulpfile.js
   
   --index.html
