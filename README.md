@@ -58,10 +58,13 @@ B. STEPS AND EXPLANATION
   
 
 Note:
+
   "++" : Folder
   
   "--" : file
+  
   node_modules : is created automatically when running "npm install"
+  
 
 2. Dependencies modules installation
 
