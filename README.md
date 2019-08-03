@@ -31,7 +31,6 @@ B. STEPS AND EXPLANATION
         --main.js
         --other.js
       ++scss
-
         ++partials
           --_global.scss
           --_index.scss
@@ -39,12 +38,9 @@ B. STEPS AND EXPLANATION
           --_index.scss
           --_variables.scss
         ++vendor
-
           ++bootstrap
           --_index.scss
-
         --main.scss
-
   --gulpfile.js
   
   --index.html
