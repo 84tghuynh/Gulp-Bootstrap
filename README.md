@@ -22,6 +22,7 @@ B. STEPS AND EXPLANATION
 --------------------------
 
   ++css
+  
   ++js
 
   ++src
@@ -51,6 +52,7 @@ B. STEPS AND EXPLANATION
         --main.scss
 
   --gulpfile.js
+  
   --index.html
 
   --package.json
