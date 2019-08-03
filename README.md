@@ -19,6 +19,8 @@ B. STEPS AND EXPLANATION
 
 1. Folder Structure
 
+--------------------------
+
   ++css
   
   ++js
@@ -56,6 +58,7 @@ B. STEPS AND EXPLANATION
   
   --package.json
   
+------------------------
 
 Note:
 
