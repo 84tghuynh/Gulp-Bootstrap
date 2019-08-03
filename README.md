@@ -28,7 +28,6 @@ B. STEPS AND EXPLANATION
   ++src
 
       ++js
-
         --main.js
         --other.js
 
