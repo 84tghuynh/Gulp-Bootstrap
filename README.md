@@ -40,6 +40,7 @@ B. STEPS AND EXPLANATION
           ++bootstrap
           --_index.scss
         --main.scss
+        
   --gulpfile.js
   
   --index.html
