@@ -18,8 +18,11 @@ gulp default
 B. STEPS AND EXPLANATION
 
 1. Folder Structure
+
   ++css
+  
   ++js
+  
   ++src
       ++js
         --main.js
