@@ -1,0 +1,6 @@
+$main-color: blue;
+$basepx: 16;
+
+@function em($px){
+   @return ($px/$basepx)*1em;
+}

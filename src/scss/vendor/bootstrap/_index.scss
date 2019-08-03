@@ -1,0 +1,66 @@
+/**
+  * _index.scss: copy content of bootstrap-grid.scss
+  * Organized the order of @import
+  * IMPORT the essential bootstrap modulules for the project
+  *
+  * Author: Truong Giang, Huynh
+  * Created: 08/02/2019
+  * Modified: 08/02/2019
+**/
+
+/*!
+ * Bootstrap Grid v4.3.1 (https://getbootstrap.com/)
+ * Copyright 2011-2019 The Bootstrap Authors
+ * Copyright 2011-2019 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+html {
+  box-sizing: border-box;
+  -ms-overflow-style: scrollbar;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+@import "vendor/rfs"; //responsive-font-size
+@import "functions";
+@import "variables";
+@import "mixins";
+@import "reboot";
+
+
+@import "grid";
+@import "utilities";
+
+
+@import "type"; //Typography
+@import "tables";
+@import "code";
+@import "close";
+@import "alert";
+@import "badge";
+@import "buttons";
+@import "breadcrumb";
+@import "button-group";
+@import "dropdown";
+@import "pagination";
+@import "card";
+@import "media";
+@import "list-group";
+@import "nav";
+@import "carousel";
+@import "transitions";//collapse
+@import "jumbotron";
+@import "forms";
+@import "input-group";
+@import "custom-forms";
+@import "nav";
+@import "navbar";
+@import "modal";
+@import "tooltip";
+@import "popover";
+@import "toasts";

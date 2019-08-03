@@ -1,0 +1,67 @@
+.primary{
+  background-color: red;
+  height: 300px;
+}
+
+.bg-red{
+  background-color: red;
+}
+
+.bg-blue{
+  background-color: blue;
+}
+
+.bg-green{
+  background-color: green;
+}
+
+.container{
+  // width: 40vw;
+}
+.tile-black{
+  background-color: #333;
+  > .col-md-1{
+    background-color: white;
+    height: 4.44vw; //100/9 = 11.1111
+  }
+}
+
+.tile-white > .col-md-1{
+  background-color: #333;
+  height: 4.44vw; //100/9 = 11.1111
+}
+
+.level-em-1{
+  background-color: grey;
+  // font-size: 20em;
+  border: 10px solid green;
+  height: 20em;
+}
+
+.level-em-2{
+  background-color: red;
+  // font-size: 2em;
+  border: 10px solid yellow;
+  height: 0.5em;
+}
+
+.custom-heading{
+   @include rfs(64);  //responsive font
+   margin-top: 6px;
+}
+
+.main{
+  margin:30px;
+}
+
+.lead{
+  margin-top: -3px;
+}
+p {
+  line-height: 2;
+  margin-top: -2px;
+}
+
+body{
+  position: relative;
+}
