@@ -93,4 +93,4 @@ Note: Uninstall gulp-4.0.2 before gulp-3.9.1 installation.
 
 4. Create a _index.scss file in src\scss\vendor\bootstrap\
 
-Copy content of bootstrap-grid.scss & IMPORT the essential bootstrap modules for PROJECT to _index.scss
+Copy content of bootstrap-grid.scss & IMPORT the essential bootstrap modules for PROJECT to src\scss\vendor\bootstrap\_index.scss
