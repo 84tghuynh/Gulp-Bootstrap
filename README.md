@@ -20,29 +20,46 @@ B. STEPS AND EXPLANATION
 1. Folder Structure
 
   ++css
+  
   ++js
   
   ++src
+  
       ++js
+      
         --main.js
         --other.js
+        
       ++scss
+      
         ++partials
+        
           --_global.scss
           --_index.scss
+          
         ++utils
+        
           --_index.scss
           --_variables.scss
+          
         ++vendor
+        
           ++bootstrap
+          
           --_index.scss
+          
         --main.scss
+        
   --gulpfile.js
+  
   --index.html
+  
   --package.json
+  
 
 Note:
   "++" : Folder
+  
   "--" : file
   node_modules : is created automatically when running "npm install"
 
