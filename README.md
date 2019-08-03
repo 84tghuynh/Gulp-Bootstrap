@@ -48,6 +48,7 @@ Note:
 
 IF dependencies section in package.json already lists modules,
 you just use command:
+
     npm install *
 
 OR YOU can manually install each module in the list of dependencies in package.json:
