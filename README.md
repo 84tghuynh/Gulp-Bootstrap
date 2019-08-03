@@ -22,11 +22,11 @@ B. STEPS AND EXPLANATION
 --------------------------
 
   ++css
-  
+
   ++js
 
   ++src
-  
+
       ++js
         --main.js
         --other.js
@@ -42,9 +42,9 @@ B. STEPS AND EXPLANATION
           --_index.scss
         --main.scss
   --gulpfile.js
-  
+
   --index.html
-  
+
   --package.json
 
 ------------------------
@@ -63,7 +63,7 @@ Note:
 IF dependencies section in package.json already lists modules,
 you just use command:
 
-    npm install *
+    npm install
 
 OR YOU can manually install each module in the list of dependencies in package.json:
 
