@@ -41,7 +41,9 @@ B. STEPS AND EXPLANATION
           --_index.scss
         --main.scss
   --gulpfile.js
+  
   --index.html
+  
   --package.json
 
 ------------------------
