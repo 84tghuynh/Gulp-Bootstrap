@@ -72,6 +72,7 @@ OR YOU can manually install each module in the list of dependencies in package.j
     npm install gulp           /*gulp-4.0.2*/
 
 Note: Uninstall gulp-4.0.2 before gulp-3.9.1 installation.
+
     npm uninstall gulp
     npm install gulp@3.9.1
 
