@@ -106,7 +106,7 @@ const build = gulp.series(browserSync_, watchFiles);
 **/
 exports.css = css;
 /**
-  * Function to create scripts.css in ./css folder
+  * Function to create scripts.js & scripts.min.js in ./js folder
 **/
 exports.scripts = scripts;
 exports.default = build;
